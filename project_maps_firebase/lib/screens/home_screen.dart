@@ -120,7 +120,7 @@ class _HomeScreenState extends State<HomeScreen> {
               onPressed: () {
                 // Navigator.push(context,
                 //       MaterialPageRoute(builder: (context) => MapSample()));
-                _launchURL('https://flutter.dev');
+                _launchURL('https://www.google.com/maps');
               }, 
               child: Text('Get Maps')),
             SizedBox(
